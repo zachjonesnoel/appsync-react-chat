@@ -6,7 +6,7 @@
     "aws-amplify": "^4.3.12",
     "aws-amplify-react": "^3.1.7",
     "aws-appsync": "^4.0.3",
-    "aws-appsync-react": "^4.0.3",
+    "aws-appsync-react": "^4.0.10",
     "glamor": "^2.20.40",
     "graphql-tag": "^2.12.6",
     "lodash.flowright": "^3.5.0",
